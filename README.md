@@ -33,7 +33,7 @@ I'm a passionate and performance-driven **Laravel & PHP developer** with **2+ ye
 `MySQL`, `SQLite`, `Eloquent ORM`, `Migrations`, `Query Builder`
 
 **🔧 Tools & DevOps:**  
-`Git`, `GitHub`, `GitLab`, `Docker (Basics)`, `CI/CD Pipelines (Basics)`
+`Git`, `GitHub`, `GitLab`, `Docker`, `CI/CD Pipelines`
 
 **☁️ Cloud & Hosting:**  
 `AWS EC2`, `S3`, `RDS (Beginner Level)`, `cPanel`, `WHM`
